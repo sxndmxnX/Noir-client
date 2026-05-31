@@ -4,12 +4,10 @@ This is probably the most advanced userscript as of now, and thats why i dont kn
 
 i'll see tho.
 
-# Features:
+# description
 
-NOIR - Starblast.io Client
-"probably the best client around these days"
-
-Authors: plxyer-x / sxndmxn! <= (same person, diff names) & DSK
+NOIR client
+"probably the best client around these days" - sxndmxn
 
 # Password prot
 
