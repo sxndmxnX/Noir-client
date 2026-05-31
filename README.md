@@ -1,0 +1,95 @@
+# Noir-client
+
+This is probably the most advanced userscript as of now, and thats why i dont know if i should release it. 
+
+i'll see tho.
+
+# Features:
+
+NOIR - Starblast.io Client
+"probably the best client around these days"
+
+Authors: plxyer-x / sxndmxn! <= (same person, diff names) & DSK
+
+# Password prot
+
+Password Protection - OTP (One-Time Password) system.
+
+OTP Generations - Thousands of unique one-time passwords - each works once, and never again. 
+
+# Enhancements
+
+Bypass Team Lock - join any teams even if they show locked
+
+Radar Zoom - Increased radar visibility
+
+Fast Respawn - Instant respawn on death
+
+Lowercase Name - pretty obvious no?
+
+Blank Name - simple as shite eh?
+
+Unlock Weapons Store - does not allow for contribution in team modes, you have to be in the base to do that, big ol 🖕 to the starblast server.
+
+FOV Zoom - allows mouse wheel to control the FOV. 
+
+Strafe (ALT+I) - Enable/disable strafing, it doesn't let you change your angle, it just makes you look like your doing the wiggle wiggle (shakira?)
+
+Survival Timer - Countdown display before sudden death occurs.
+
+# Visuals
+
+True high hue - the best high hue as on now, turns the ASTEROIDS a diff color too :D
+
+Custom Crosshair - can replace the crosshair with a red "+".
+
+Square Sun - Turns the sun into a square shape. cause i can.
+
+Custom Sun Color - can adjust the sun to be whatever color you want.
+
+Sun Size Slider - Adjust sun size as wanted (200-1000)
+
+Remove Stars - Clean black background without stars, also helps with FPS for those with potato PCs.
+
+Crystal Colors - allows you to customize the crystal colors
+
+5-Emotes - pretty obvious yes?
+
+Blank Emotes - adds blank emotes to most modes, team mode, survival, etc. not all modding modes though.
+
+Emote Cycler - Auto-send pre-made sequences of emotes.
+
+Custom Kill Emote - Auto-sends custom message when you kill someone. theres a panel where you can customise it, its red and says "Ke" 
+
+Multibox - Spawn up to 5 bots, however if there is other ppl playing on your IP it will decrease to 4-3-2-1 etc. The bots can copy your exact movements. You can kick certain bots or all of them at once. You can solo control specific bots. you can also choose the team for the bots to join (1/2/3) or auto-detect, which is not the best, i recommend manual.
+
+# Custom CSS/visual stuff
+
+Custom dark theme, proudly made by yours truly.
+
+Custom Fonts - replaces all the boring ahh regular font with Exo.
+
+Logo Removal - Removes "Starblast.io" logo, adds "NOIR" logo, wouldnt be NOIR without
+
+# Cosmetic shite
+
+Custom sUCP Badges (SRC Champ, SDC Champ, Developer) only you and other ppl using a client that adds these can see it btw.
+
+See blank badges - allows ECPs set on blank to be visible
+
+No more anon ships - Removes anonymous ships in PDM.
+
+FPS Unlock - Removes frame rate cap, only works on high-end PCs. not potato ones.
+
+Disable Explosions - Improves performance a lot.
+
+Custom weapon and station models - customises how the stations and weapons look.
+
+# Credits
+plxyer-x / sxndmxn! - Main development of features and original creator of CSS.
+
+DSK - helped with implementing the features, reduced the client by over 2000 lines of code, lowkey goated.
+
+Robonuko - RTX model packs
+
+Jti-sb - gave me the inspiration for some features.
