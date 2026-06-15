@@ -35,7 +35,7 @@ Strafe (ALT+I) - Enable/disable strafing, it doesn't let you change your angle, 
 
 Survival Timer - Countdown display before sudden death occurs.
 
-True high hue - the best high hue as on now, turns the ASTEROIDS a diff color too :D
+True high hue - the best high hue as of now, turns the ASTEROIDS a diff color too :D
 
 Custom Crosshair - can replace the crosshair with a red "+".
 
