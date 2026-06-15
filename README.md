@@ -17,6 +17,8 @@ OTP Generations - Thousands of unique one-time passwords - each works once, and 
 
 # Enhancements
 
+Alt+A opens settings - allows you to open NOIR's settings in game. reccomend doing this in the base however.
+
 Bypass Team Lock - join any teams even if they show locked
 
 Radar Zoom - Increased radar visibility
@@ -57,9 +59,13 @@ Emote Cycler - Auto-send pre-made sequences of emotes.
 
 Custom Kill Emote - Auto-sends custom message when you kill someone. theres a panel where you can customise it, its red and says "Ke" 
 
+Kill Counter - logs your kills in a nice panel under the RCS toggle.
+
 Multibox - Spawn up to 5 bots, however if there is other ppl playing on your IP it will decrease to 4-3-2-1 etc. The bots can copy your exact movements. You can kick certain bots or all of them at once. You can solo control specific bots. you can also choose the team for the bots to join (1/2/3) or auto-detect, which is not the best, i recommend manual.
 
 Aimbot - still a WIP, not added yet. soon tho. 
+
+Serverlist - A built in serverlist that lists all avaliable sectors. (mostly works, but some parts are still in progress and may be buggy as of now.)
 
 # Custom CSS/visual stuff
 
