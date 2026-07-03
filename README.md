@@ -4,10 +4,24 @@ This is probably the most advanced userscript as of now, and thats why i dont kn
 
 i'll see tho.
 
+This is the repo associated with the userscript NOIR for starblast.io.
+the files in this repo are mainly for the userscript itself.
+The client itself is not released to anyone but me. I made this, and I do not intend to release it, as it is too feature-stacked. 
+
+# Noir-client
+
+This is probably the most advanced userscript as of now, and thats why i dont know if i should release it. 
+
+i'll see tho.
+
 # description
 
-NOIR client
+NOIR client is a client LOADED with good features, YES IT HAS HACKS, STFU PASHA AND COMPANY.
+its a great client, only took me about 2 months to make. :D
+
 "probably the best client around these days" - sxndmxn
+
+
 
 # Password prot
 
@@ -17,7 +31,9 @@ OTP Generations - Thousands of unique one-time passwords - each works once, and 
 
 # Enhancements
 
-Alt+A opens settings - allows you to open NOIR's settings in game. reccomend doing this in the base however.
+Alt+A opens settings - allows you to open NOIR's settings in game. reccomend doing this in the base however, as it can cause you to stop moving while the panel is open.
+
+CTRL Q opens STARBLAST settings - very useful imo.
 
 Bypass Team Lock - join any teams even if they show locked
 
@@ -61,9 +77,25 @@ Custom Kill Emote - Auto-sends custom message when you kill someone. theres a pa
 
 Kill Counter - logs your kills in a nice panel under the RCS toggle.
 
+Death Counter - logs your deaths in a panel with kill counter. 
+
 Multibox - Spawn up to 5 bots, however if there is other ppl playing on your IP it will decrease to 4-3-2-1 etc. The bots can copy your exact movements. You can kick certain bots or all of them at once. You can solo control specific bots. you can also choose the team for the bots to join (1/2/3) or auto-detect, which is not the best, i recommend manual.
 
 Aimbot - still a WIP, not added yet. soon tho. 
+
+Missile Spam / Unlimited Weapons - Currently patched, will fix soon
+
+Unlock Upgrades - Currently patched, might now be server authenticated. might not work anymore sadly.
+
+Emote Cap Slider — Allows you to set the max number of emotes you can send, from 1 to 5 in realtime. 
+
+Smooth Gems - Them gems be SMOOVE now.
+
+Diamond Sun - is obvious no?
+
+Custom ECP Skins - Makes the ECP badges look cooler.
+
+NOIR User List - Shows all other NOIR users currently active.
 
 Serverlist - A built in serverlist that lists all avaliable sectors. (mostly works, but some parts are still in progress and may be buggy as of now.)
 
@@ -97,3 +129,4 @@ DSK - helped with implementing the features, reduced the client by over 2000 lin
 Robonuko - RTX model packs
 
 Jti-sb - gave me the inspiration for some features.
+
