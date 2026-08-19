@@ -1,7 +1,7 @@
 This is the repo associated with the userscript NOIR for starblast.io.
-the files in this repo are mainly for the userscript itself, not stuff that needs to be pulled to the script lmao. I'm not using github to pull things as its too mainstream.
+the files in this repo are mainly for the userscript itself, not stuff that needs to be pulled to the script lmao. I'm not using github to pull important things as its too mainstream.
 
-The client itself is not released to anyone but me. I made this, and I do not intend to release it, cause it would get passed around like crazy. maybe if i get a good anti-distribution server up n running though :). 
+The client itself is not released to anyone but me. I made this, and I do not intend to release it, cause it would get passed around like crazy. it'll get released when i get my server up. it'll have anti-distribution ofc ofc
 
 # Noir-client
 
