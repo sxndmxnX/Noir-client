@@ -1,12 +1,7 @@
-# Noir-client
-
-This is probably the most advanced userscript as of now, and thats why i dont know if i should release it. 
-
-i'll see tho.
-
 This is the repo associated with the userscript NOIR for starblast.io.
-the files in this repo are mainly for the userscript itself.
-The client itself is not released to anyone but me. I made this, and I do not intend to release it, as it is too feature-stacked. 
+the files in this repo are mainly for the userscript itself, stuff that needs to be pulled. I'm not using github as its too mainstream.
+
+The client itself is not released to anyone but me. I made this, and I do not intend to release it, cause it would get passed around like crazy. maybe if i get a good anti-distribution server up n running though :). 
 
 # Noir-client
 
@@ -16,7 +11,7 @@ i'll see tho.
 
 # description
 
-NOIR client is a client LOADED with good features, YES IT HAS HACKS, STFU PASHA AND COMPANY.
+NOIR client is a client LOADED with good features, YES IT HAS HACKS, STFU ALL YOU BITCH ASS SO CALLED "anti-cheaters" HALF OF YALL TURN OUT TO BE CHEATING SHITHEADS ANYWAY. (lookin at you generalSB, YES YOU BITCH)
 its a great client, only took me about 2 months to make. :D
 
 "probably the best client around these days" - sxndmxn
@@ -33,6 +28,10 @@ OTP Generations - Thousands of unique one-time passwords - each works once, and 
 
 Alt+A opens settings - allows you to open NOIR's settings in game. reccomend doing this in the base however, as it can cause you to stop moving while the panel is open.
 
+Alt D opens ECP preview - idk why i added this, but its cool i guess. i was bored to be fair
+
+Alt J opens WebSocket Sniffer - i added a WebSocket sniffer that logs all websocket data going in and out. idk why. you can send stuff out too, like a "say" command if you want, but idk. 
+
 CTRL Q opens STARBLAST settings - very useful imo.
 
 Bypass Team Lock - join any teams even if they show locked
@@ -48,6 +47,8 @@ Blank Name - simple as shite eh?
 Unlock Weapons Store - does not allow for contribution in team modes, you have to be in the base to do that, big ol 🖕 to the starblast server.
 
 FOV Zoom - allows mouse wheel to control the FOV. 
+
+Custom Music player - allows for you to play tracks from either in the script, the built-in ones, or ones you import from yer gitlab or github as .mp3 files. Youtube support coming soon, gotta write a server first :)
 
 Strafe (ALT+I) - Enable/disable strafing, it doesn't let you change your angle, it just makes you look like your doing the wiggle wiggle (shakira?)
 
@@ -99,15 +100,7 @@ NOIR User List - Shows all other NOIR users currently active.
 
 Serverlist - A built in serverlist that lists all avaliable sectors. (mostly works, but some parts are still in progress and may be buggy as of now.)
 
-# Custom CSS/visual stuff
-
-Custom dark theme, proudly made by yours truly.
-
-Custom Fonts - replaces all the boring ahh regular font with Exo.
-
-Logo Removal - Removes "Starblast.io" logo, adds "NOIR" logo, wouldnt be NOIR without
-
-# Cosmetic shite
+Music player - replaces the built in music with about 300 other tracks that you can go through, toggle is ALT M :)
 
 Custom sUCP Badges (SRC Champ, SDC Champ, Developer) only you and other ppl using a client that adds these can see it btw.
 
@@ -121,7 +114,7 @@ Disable Explosions - Improves performance a lot.
 
 Custom weapon and station models - customises how the stations and weapons look.
 
-# Credits
+# Credit
 plxyer-x / sxndmxn! - Main development of features and original creator of CSS.
 
 DSK - helped with implementing the features, reduced the client by over 2000 lines of code, lowkey goated.
