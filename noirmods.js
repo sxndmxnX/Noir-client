@@ -1,4 +1,5 @@
 [
+    [
     {
         "_id": "5b2b60bff3481c764393361a",
         "mod_id": "useries",
@@ -195,4 +196,5 @@
         "featured": false,
         "date_created": 1637939475000
     }
+  ]
 ]
