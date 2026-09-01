@@ -110,7 +110,9 @@ No more anon ships - Removes anonymous ships in PDM.
 
 FPS Unlock - Removes frame rate cap, only works on high-end PCs. not potato ones.
 
-Disable Explosions - Improves performance a lot.
+Disable Explosions - Improves performance ig. 
+
+Auto-dodge (still wip, mostly working though) - the name should be good enough no? it detects when a laser is coming at you, dodges accordingly. still some bugs to work out though.
 
 Custom weapon and station models - customises how the stations and weapons look.
 
