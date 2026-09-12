@@ -112,7 +112,7 @@ FPS Unlock - Removes frame rate cap, only works on high-end PCs. not potato ones
 
 Disable Explosions - Improves performance ig. 
 
-Auto-dodge (still wip, mostly working though) - the name should be good enough no? it detects when a laser is coming at you, dodges accordingly. still some bugs to work out though.
+Ai teammate bot - a bot that will follow you around, and do what you command it to do. if you attack someone, it'll attack them too. it is still a work in progress, working on the auto mine and attacking functions for maximum efficiency, but they are almost fully done, just need to add some final exceptions and logic to it :) 
 
 Custom weapon and station models - customises how the stations and weapons look.
 
