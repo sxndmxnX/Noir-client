@@ -76,6 +76,8 @@ Emote Cycler - Auto-send pre-made sequences of emotes.
 
 Custom Kill Emote - Auto-sends custom message when you kill someone. theres a panel where you can customise it, its red and says "Ke" 
 
+Self-ship-tag - just adds a tag under yer ship lmao.
+
 Kill Counter - logs your kills in a nice panel under the RCS toggle.
 
 Death Counter - logs your deaths in a panel with kill counter. 
