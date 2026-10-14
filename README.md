@@ -96,7 +96,7 @@ Smooth Gems - Them gems be SMOOVE now.
 
 Diamond Sun - is obvious no?
 
-Custom ECP Skins - Makes the ECP badges look cooler.
+Custom ECP Skins - adds a boatload of other cool ecp skins. goes well with custom badges
 
 NOIR User List - Shows all other NOIR users currently active.
 
@@ -104,7 +104,7 @@ Serverlist - A built in serverlist that lists all avaliable sectors. (mostly wor
 
 Music player - replaces the built in music with about 300 other tracks that you can go through, toggle is ALT M :)
 
-Custom sUCP Badges (SRC Champ, SDC Champ, Developer) only you and other ppl using a client that adds these can see it btw.
+Custom Badges (SRC Champ, SDC Champ, Developer, plus a crapton of other badges and badge images) only you and other ppl using this client can see them btw.
 
 See blank badges - allows ECPs set on blank to be visible
 
@@ -117,6 +117,8 @@ Disable Explosions - Improves performance ig.
 Ai teammate bot - a bot that will follow you around, and do what you command it to do. if you attack someone, it'll attack them too. it is still a work in progress, working on the auto mine and attacking functions for maximum efficiency, but they are almost fully done, just need to add some final exceptions and logic to it :) 
 
 Custom weapon and station models - customises how the stations and weapons look.
+
+always new features otw....
 
 # Credit
 plxyer-x / sxndmxn! - Main development of features and original creator of CSS.
