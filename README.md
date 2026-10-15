@@ -100,17 +100,17 @@ Custom ECP Skins - adds a boatload of other cool ecp skins. goes well with custo
 
 NOIR User List - Shows all other NOIR users currently active.
 
-Serverlist - A built in serverlist that lists all avaliable sectors. (mostly works, but some parts are still in progress and may be buggy as of now.)
+Serverlist - A built in serverlist that lists all avaliable sectors. (mostly works, but some parts are still in progress and may be buggy as of now, dont flame me if you find errors.)
 
-Music player - replaces the built in music with about 300 other tracks that you can go through, toggle is ALT M :)
+Music player - replaces the built in music with about 300 other tracks that you can go through, toggle is ALT M.
 
-Custom Badges (SRC Champ, SDC Champ, Developer, plus a crapton of other badges and badge images) only you and other ppl using this client can see them btw.
+Custom Badges (SRC Champ, SDC Champ, Developer, plus a crapton of other badge images) only you and other ppl using this client can see them btw.
 
-See blank badges - allows ECPs set on blank to be visible
+See blank badges - allows ECPs set on blank to be visible, like everyones, not just yours. 
 
-No more anon ships - Removes anonymous ships in PDM.
+No more anon ships - Removes anonymous ships in PDM, basically when you cannot see the names in PDM, now you can.
 
-FPS Unlock - Removes frame rate cap, only works on high-end PCs. not potato ones.
+FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
 
 Disable Explosions - Improves performance ig. 
 
