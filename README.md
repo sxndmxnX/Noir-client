@@ -108,6 +108,8 @@ Custom Badges (SRC Champ, SDC Champ, Developer, plus a crapton of other badge im
 
 See blank badges - allows ECPs set on blank to be visible, like everyones, not just yours. 
 
+Ship path finder - lets you see all the ships in the game, allows you to set targets and tells you how to get it. plus works in MCST too btw, made it specifically for that mode.
+
 No more anon ships - Removes anonymous ships in PDM, basically when you cannot see the names in PDM, now you can.
 
 FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
