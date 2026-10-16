@@ -110,6 +110,10 @@ See blank badges - allows ECPs set on blank to be visible, like everyones, not j
 
 Ship path finder - lets you see all the ships in the game, allows you to set targets and tells you how to get it. plus works in MCST too btw, made it specifically for that mode.
 
+Freecam - allows you to detach the camera from your ship and drag around using right mouse btn. Alt V toggles on and off. you can also zoom in n out.
+
+Rumble Healing - rumble used to have a heal function, still in there, so i hooked it, after you die and respawn, you have 6 seconds to press "-" (minus key) and it will toggle healing on and off. yeah i love coding.
+
 No more anon ships - Removes anonymous ships in PDM, basically when you cannot see the names in PDM, now you can.
 
 FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
