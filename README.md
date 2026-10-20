@@ -114,6 +114,8 @@ Freecam - allows you to detach the camera from your ship and drag around using r
 
 Rumble Healing - rumble used to have a heal function, still in there, so i hooked it, after you die and respawn, you have 6 seconds to press "-" (minus key) and it will toggle healing on and off. yeah i love coding.
 
+Custom Laser skins - modifies the existing laser skins to make them look cooler. yeah i'm fully out of ideas now bro, even i can tell.
+
 No more anon ships - Removes anonymous ships in PDM, basically when you cannot see the names in PDM, now you can.
 
 FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
