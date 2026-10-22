@@ -116,6 +116,8 @@ Rumble Healing - rumble used to have a heal function, still in there, so i hooke
 
 Custom Laser skins - modifies the existing laser skins to make them look cooler. yeah i'm fully out of ideas now bro, even i can tell.
 
+Coordinate tracker - allows you to view your world coordinates. useful i think
+
 No more anon ships - Removes anonymous ships in PDM, basically when you cannot see the names in PDM, now you can.
 
 FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
