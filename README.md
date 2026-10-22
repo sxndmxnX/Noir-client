@@ -44,11 +44,11 @@ Lowercase Name - pretty obvious no?
 
 Blank Name - simple as shite eh?
 
-Unlock Weapons Store - does not allow for contribution in team modes, you have to be in the base to do that, big ol 🖕 to the starblast server.
+Unlock Weapons Store - allows you to contribute in certain modes like MCST and Battle Royale. does not allow for contribution in team modes, you have to be in the base to do that, big ol 🖕 to the starblast backend server.
 
 FOV Zoom - allows mouse wheel to control the FOV. 
 
-Custom Music player - allows for you to play tracks from either in the script, the built-in ones, or ones you import from yer gitlab or github as .mp3 files. Youtube support coming soon, gotta write a server first :)
+Custom Music player - allows for you to play custom tracks, either the built-in ones in the script, or ones you import from yer gitlab or github as .mp3 files.
 
 Strafe (ALT+I) - Enable/disable strafing, it doesn't let you change your angle, it just makes you look like your doing the wiggle wiggle (shakira?)
 
