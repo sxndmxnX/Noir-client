@@ -84,7 +84,7 @@ Death Counter - logs your deaths in a panel with kill counter.
 
 Multibox - Spawn up to 5 bots, however if there is other ppl playing on your IP it will decrease to 4-3-2-1 etc. The bots can copy your exact movements. You can kick certain bots or all of them at once. You can solo control specific bots. you can also choose the team for the bots to join (1/2/3) or auto-detect, which is not the best, i recommend manual.
 
-Aimbot - still a WIP, not added yet. soon tho. 
+Aimbot - i mean the name is pretty telling no? its lumped together with tracers so they're a pair. press capslock to toggle aimbot, and "]" to toggle tracers on and off. 
 
 Missile Spam / Unlimited Weapons - Currently patched, will fix soon
 
@@ -121,6 +121,8 @@ No more anon ships - Removes anonymous ships in PDM, basically when you cannot s
 FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
 
 Disable Explosions - Improves performance ig. 
+
+Killfeed - Shows a live feed of who killed who in the top right corner, lowk goated i am MMMMMMMMMM.
 
 Ai teammate bot - a bot that will follow you around, and do what you command it to do. if you attack someone, it'll attack them too. it is still a work in progress, working on the auto mine and attacking functions for maximum efficiency, but they are almost fully done, just need to add some final exceptions and logic to it :) 
 
