@@ -126,6 +126,10 @@ Disable Explosions - Improves performance ig.
 
 Killfeed - Shows a live feed of who killed who in the top right corner, lowk goated i am MMMMMMMMMM.
 
+Galaxy Map - adds a galaxy map where you can view all sectors, just like in the standalone. BTW, when you`re in the galaxy map n you wanna leave it, press alt g to leave. thanks @Zyrvaen for writing this, i just modded it to work in NOIR. theres also credit to him in NOIR's about section.
+
+ECP Creator - Press the ECP icon in next to NOIR's settings to open a full ECP Maker. customize your badge, hull material, and laser type. got like 100+ materials, animated skins, custom image uploads, and live in-game previews (only you see it tho, you know the drill, FUCK STARBLAST'S SERVER). Also ported this from @Zyrvaen, thanks my guy.
+
 Ai teammate bot - a bot that will follow you around, and do what you command it to do. if you attack someone, it'll attack them too. it is still a work in progress, working on the auto mine and attacking functions for maximum efficiency, but they are almost fully done, just need to add some final exceptions and logic to it :) 
 
 Custom weapon and station models - customises how the stations and weapons look.
