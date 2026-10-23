@@ -5,7 +5,7 @@ The client itself is not released to anyone but me. I made this, and I do not in
 
 # Noir-client
 
-This is probably the most advanced userscript as of now, and thats why i dont know if i should release it. 
+This is probably the most advanced userscript that i know of, and thats why i dont know if i should release it. 
 
 i'll see tho.
 
