@@ -3,13 +3,11 @@ the files in this repo are mainly for the userscript itself, not stuff that need
 
 The client itself is not released to anyone but me. I made this, and I do not intend to release it, cause it would get passed around like crazy. it'll get released when i get my server up. it'll have anti-distribution ofc ofc
 
-# Noir-client
-
 This is probably the most advanced userscript that i know of, and thats why i dont know if i should release it. 
 
 i'll see tho.
 
-# description
+# Noir client description
 
 NOIR client is a client LOADED with good features, YES IT HAS HACKS, STFU ALL YOU BITCH ASS SO CALLED "anti-cheaters" HALF OF YALL TURN OUT TO BE CHEATING SHITHEADS ANYWAY. (lookin at you generalSB, YES YOU BITCH)
 its a great client, only took me about 2 months to make. :D
