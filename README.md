@@ -122,6 +122,8 @@ No more anon ships - Removes anonymous ships in PDM, basically when you cannot s
 
 Gamepad Support - adds gamepad support to the browser, works the exact same, mostly anyways. yeah.
 
+Anti-Kick - sets the timer that automatically kicks you to a 999, it wont last forever, but it will last longer than one minute.
+
 FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
 
 Disable Explosions - Improves performance ig. 
