@@ -7,7 +7,7 @@ This is probably the most advanced userscript that i know of, and thats why i do
 
 i'll see tho.
 
-# Noir client description
+# Noir client description and features below
 
 NOIR client is a client LOADED with good features, YES IT HAS HACKS, STFU ALL YOU BITCH ASS SO CALLED "anti-cheaters" HALF OF YALL TURN OUT TO BE CHEATING SHITHEADS ANYWAY. (lookin at you generalSB, YES YOU BITCH)
 its a great client, only took me about 2 months to make. :D
@@ -15,14 +15,9 @@ its a great client, only took me about 2 months to make. :D
 "probably the best client around these days" - sxndmxn
 
 
-
-# Password prot
-
 Password Protection - OTP (One-Time Password) system.
 
-OTP Generations - Thousands of unique one-time passwords - each works once, and never again. 
-
-# Enhancements
+OTP Generations - thousands of unique one-time passwords, idk why or where i got the idea from, but okay. each one of the passwords works once, and never again. 
 
 Alt+A opens settings - allows you to open NOIR's settings in game. reccomend doing this in the base however, as it can cause you to stop moving while the panel is open.
 
