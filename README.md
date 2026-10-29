@@ -120,6 +120,8 @@ Coordinate tracker - allows you to view your world coordinates. useful i think
 
 No more anon ships - Removes anonymous ships in PDM, basically when you cannot see the names in PDM, now you can.
 
+Gamepad Support - adds gamepad support to the browser, works the exact same, mostly anyways. yeah.
+
 FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support higher FPS than you currently run.
 
 Disable Explosions - Improves performance ig. 
