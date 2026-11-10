@@ -69,7 +69,7 @@ Emote Cycler - Auto-send pre-made sequences of emotes.
 
 Custom Kill Emote - Auto-sends custom message when you kill someone. theres a panel where you can customise it, its red and says "Ke" 
 
-Self-ship-tag - just adds a tag under yer ship lmao.
+Self-ship-tag - Shows a green name tag below your own ship, like under everyone else's ship. Also adds the energy bar to everyone`s ship cause it can.
 
 Kill Counter - logs your kills in a nice panel under the RCS toggle.
 
@@ -77,8 +77,7 @@ Death Counter - logs your deaths in a panel with kill counter.
 
 Multibox - Spawn up to 5 bots, however if there is other ppl playing on your IP it will decrease to 4-3-2-1 etc. The bots can copy your exact movements. You can kick certain bots or all of them at once. You can solo control specific bots. you can also choose the team for the bots to join (1/2/3) or auto-detect, which is not the best, i recommend manual.
 
-Aimbot - i mean the name is pretty telling no? its lumped together with tracers so they're a pair. press capslock to toggle aimbot, and "]" to toggle tracers on and off. 
-
+Aimbot - i mean the name is pretty telling no? its lumped together with tracers so they're a pair.You press ] to toggle tracers, and CapsLock to aimlock onto nearest enemy. It also draws a colored circle above all enemy mines, really helpful in survival mode.
 Missile Spam / Unlimited Weapons - Currently patched, will fix soon
 
 Unlock Upgrades - Currently patched, might now be server authenticated. might not work anymore sadly.
