@@ -104,7 +104,7 @@ Ship path finder - lets you see all the ships in the game, allows you to set tar
 
 Freecam - allows you to detach the camera from your ship and drag around using right mouse btn. Alt V toggles on and off. you can also zoom in n out.
 
-Rumble Healing - rumble used to have a heal function, still in there, so i hooked it, after you die and respawn, you have 6 seconds to press "-" (minus key) and it will toggle healing on and off. yeah i love coding.
+Rumble Healing - rumble used to have a heal function i guess, the code is seemingly still in there, so i hooked it, after you die and respawn, you have roughly 6 seconds to press "-" (minus key) and it will toggle healing on or off. i love reverse-engineering stuff.
 
 Custom Laser skins - modifies the existing laser skins to make them look cooler. yeah i'm fully out of ideas now bro, even i can tell.
 
