@@ -80,7 +80,7 @@ Multibox - Spawn up to 5 bots, however if there is other ppl playing on your IP 
 Aimbot - i mean the name is pretty telling no? its lumped together with tracers so they're a pair.You press ] to toggle tracers, and CapsLock to aimlock onto nearest enemy. It also draws a colored circle above all enemy mines, really helpful in survival mode.
 Missile Spam / Unlimited Weapons - Currently patched, will fix soon
 
-Unlock Upgrades - Currently patched, might now be server authenticated. might not work anymore sadly.
+Unlock Upgrades - Unlocks the level 6->7 ship upgrade in SURVIVAL mode only ( yk its normally locked when survival starts, NOT ANYMORE!) team mode gate is server-side and cannot be bypassed client-side anymore, so imma leave that one alone.
 
 Emote Cap Slider — Allows you to set the max number of emotes you can send, from 1 to 5 in realtime. 
 
