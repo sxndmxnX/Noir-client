@@ -120,7 +120,9 @@ FPS Unlock - Removes frame rate cap, only works on high-end PCs that can support
 
 Disable Explosions - Improves performance ig. 
 
-Killfeed - Shows a live feed of who killed who in the top right corner, lowk goated i am MMMMMMMMMM.
+Show players ECP on teamboards - Lets you see who has an ECP when you're on the team selection screen.
+
+Killfeed - Shows a live feed of who killed who in the top right corner.
 
 Galaxy Map - adds a galaxy map where you can view all sectors, just like in the standalone. BTW, when you`re in the galaxy map n you wanna leave it, press alt g to leave. thanks @Zyrvaen for writing this, i just modded it to work in NOIR. theres also credit to him in NOIR's about section.
 
