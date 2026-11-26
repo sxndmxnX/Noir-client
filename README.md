@@ -88,7 +88,7 @@ Smooth Gems - Them gems be SMOOVE now.
 
 Diamond Sun - is obvious no?
 
-Custom ECP Skins - adds a boatload of other cool ecp skins. goes well with custom badges
+Custom ECP Skins - Adds custom ECP skin colors, however it will not show up to players who dont have NOIR.
 
 NOIR User List - Shows all other NOIR users currently active.
 
