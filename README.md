@@ -132,6 +132,8 @@ Ai teammate bot - a bot that will follow you around, and do what you command it 
 
 Custom weapon and station models - customises how the stations and weapons look.
 
+Auto Upgrader - automatically upgrades your ship's stats, compensating for ship type, like if you have the A-Speedster, it will upgrade speed and agility first, while also giving other upgrades less priority, as speed matters with a speedster. Currently WIP, takes a long time to make ts yall.
+
 always new features otw....
 
 # Credit
