@@ -9,8 +9,7 @@ i'll see tho.
 
 # Noir client description and features below
 
-NOIR client is a client LOADED with good features, YES IT HAS HACKS, STFU ALL YOU BITCH ASS SO CALLED "anti-cheaters" HALF OF YALL TURN OUT TO BE CHEATING SHITHEADS ANYWAY. (lookin at you generalSB, YES YOU BITCH)
-its a great client, only took me about 2 months to make. :D
+NOIR client is a client LOADED with good features, YES IT HAS HACKS. its a great client, only took me about 2 months to make. :D
 
 "probably the best client around these days" - sxndmxn
 
