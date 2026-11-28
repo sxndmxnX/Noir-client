@@ -1,18 +1,21 @@
 This is the repo associated with the userscript NOIR for starblast.io.
-the files in this repo are mainly for the userscript itself, or going to be related to the clients' release; not stuff that needs to be pulled to the script lmao. I'm not using github to pull important things as its too mainstream and would be too easy to steal.
+the files in this repo are mainly for the userscript itself, or going to be related to the clients' release; not stuff that needs to be pulled to the script lmao. I'm not using github to pull important things as its too mainstream and would be too easy to steal/repurpose.
+
+
+
+# NOIR client description.
 
 The client itself is not released to anyone but me. I made this, and I do not intend to release it as of yet, cause it would get passed around like crazy. i might release it when i get my server up. it'll have anti-distribution ofc, along with lots of other stuff.
 
-This is probably the most advanced userscript, and thats why i dont know if i should release it. 
-
-i'll see tho.
-
-# Noir client description and features below
+This is probably the most advanced userscript, more than SUBSPACE in pure features numbers and quality. 
 
 NOIR client is a client LOADED with good features, YES IT HAS HACKS. its a great client, only took me about 2 months to make. :D
 
 "probably the best client around these days" - sxndmxn
 
+
+
+# Features
 
 Password Protection - OTP (One-Time Password) system.
 
